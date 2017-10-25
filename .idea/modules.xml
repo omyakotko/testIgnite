@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bundle/bundle.iml" filepath="$PROJECT_DIR$/bundle/bundle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqlQueries/sqlQueries.iml" filepath="$PROJECT_DIR$/sqlQueries/sqlQueries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testIgnite.iml" filepath="$PROJECT_DIR$/testIgnite.iml" />
+    </modules>
+  </component>
+</project>
